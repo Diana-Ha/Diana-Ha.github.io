@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: American Sign Language Translator
 ---
 
 Adding changes....
