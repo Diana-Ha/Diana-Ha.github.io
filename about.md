@@ -8,5 +8,4 @@ Diana is passionate about helping leaders and organizations solve their most pre
 
 ### Contact me
 
-Email: [msdianaha@gmail.com](mailto:msdianaha@gmail.com)   
-LinkedIn: <a href="https://www.linkedin.com/in/dianaha/"> https://www.linkedin.com/in/dianaha/ </a>
+Email: [msdianaha@gmail.com](mailto:msdianaha@gmail.com) 
